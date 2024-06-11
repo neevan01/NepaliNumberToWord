@@ -9,6 +9,9 @@
     <Company>Code Sprout</Company>
     <Product>DigitsToNepaliWord</Product>
     <Description>This is a digit to Currency word converter that conver the digits into Nepali currency system.</Description>
+    <PackageProjectUrl>https://github.com/neevan01/NepaliNumberToWord</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/neevan01/NepaliNumberToWord</RepositoryUrl>
+    <PackageTags>Currency;Digits;Nepali;Conversion;Converter;Lakh;Crore;</PackageTags>
   </PropertyGroup>
 
 </Project>
