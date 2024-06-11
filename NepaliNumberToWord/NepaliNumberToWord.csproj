@@ -12,6 +12,16 @@
     <PackageProjectUrl>https://github.com/neevan01/NepaliNumberToWord</PackageProjectUrl>
     <RepositoryUrl>https://github.com/neevan01/NepaliNumberToWord</RepositoryUrl>
     <PackageTags>Currency;Digits;Nepali;Conversion;Converter;Lakh;Crore;</PackageTags>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright (c) 2024 Nabin Ghimire</Copyright>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Home\Downloads\License\License.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
