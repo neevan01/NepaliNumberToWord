@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <PackageId>CS-NumberToNepaliCurrencyWord</PackageId>
+    <Title>Digits To Nepali Currency</Title>
+    <Authors>Nabin Ghimire</Authors>
+    <Company>Code Sprout</Company>
+    <Product>DigitsToNepaliWord</Product>
+    <Description>This is a digit to Currency word converter that conver the digits into Nepali currency system.</Description>
+  </PropertyGroup>
+
+</Project>
